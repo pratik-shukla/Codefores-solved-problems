@@ -96,3 +96,5 @@ int main()
     }
     cout << t1 << '\n';
 }
+// something comment
+// code me change nhi kara mereko
